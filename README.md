@@ -1,14 +1,14 @@
 # 概览
 
-UAgentBox 为您提供安全可靠的弹性沙箱计算服务。只需几秒钟，您就可以在云端获取和启用具备完整操作系统能力的沙箱，用于执行 AI Agent 生成的代码、进行自动化测试或运行不可信的脚本。
+UCloud Sandbox 为您提供安全可靠的弹性沙箱计算服务。只需几秒钟，您就可以在云端获取和启用具备完整操作系统能力的沙箱，用于执行 AI Agent 生成的代码、进行自动化测试或运行不可信的脚本。
 
-随着业务需求的变化，您可以实时扩展或缩减计算资源。UAgentBox 支持按实际使用的资源计费，可以为您节约计算成本。使用 UAgentBox 可以极大降低您的基础设施维护成本，简化 Agent 本地环境隔离的复杂性。
+随着业务需求的变化，您可以实时扩展或缩减计算资源。UCloud Sandbox 支持按实际使用的资源计费，可以为您节约计算成本。使用 UCloud Sandbox 可以极大降低您的基础设施维护成本，简化 Agent 本地环境隔离的复杂性。
 
-#### <center>[CLI 指南](docs/cli/uagentbox-cli.md)   |   [SDK 入门](docs/sdk/template/01-quick-start.md)   |   [沙箱管理](docs/sdk/sandbox/01-lifecycle.md)   |   [词汇表](_glossary.md)</center>
+#### <center>[CLI 指南](docs/cli/UCloud Sandbox-cli.md)   |   [SDK 入门](docs/sdk/template/01-quick-start.md)   |   [沙箱管理](docs/sdk/sandbox/01-lifecycle.md)   |   [词汇表](_glossary.md)</center>
 
-## 1. 了解 UAgentBox
+## 1. 了解 UCloud Sandbox
 
-面向 AI 开发者，全方位介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解 UAgentBox。
+面向 AI 开发者，全方位介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解 UCloud Sandbox。
 
 * [产品优势](docs/sdk/template/02-how-it-works.md)
 * [应用场景](docs/sdk/template/12-examples.md)
@@ -16,9 +16,9 @@ UAgentBox 为您提供安全可靠的弹性沙箱计算服务。只需几秒钟�
 
 ## 2. 快速入门
 
-只需几步即可开始使用 UAgentBox。
+只需几步即可开始使用 UCloud Sandbox。
 
-* [安装 CLI](docs/cli/uagentbox-cli.md#安装)
+* [安装 CLI](docs/cli/UCloud Sandbox-cli.md#安装)
 * [创建第一个沙箱](docs/sdk/sandbox/01-lifecycle.md)
 * [构建自定义模板](docs/sdk/template/01-quick-start.md)
 

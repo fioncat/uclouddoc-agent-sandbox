@@ -17,7 +17,7 @@ export AGENTBOX_API_KEY=your_api_key
 
 ## 默认规则
 
-与标准的 Docker 容器不同，UAgentBox 为了安全性及操作便利性，默认采用非 root 用户：
+与标准的 Docker 容器不同，UCloud Sandbox 为了安全性及操作便利性，默认采用非 root 用户：
 
 *   **默认用户**: `user` (具备 sudo 权限)
 *   **默认工作目录**: `/home/user` (用户主目录)

@@ -15,7 +15,7 @@ title: "频率限制"
 export AGENTBOX_API_KEY=your_api_key
 ```
 
-为了保障服务的稳定性与公平共享，UAgentBox 平台对各类型的 API 调用及资源使用设置了频率限制 (Rate Limits)。
+为了保障服务的稳定性与公平共享，UCloud Sandbox 平台对各类型的 API 调用及资源使用设置了频率限制 (Rate Limits)。
 
 ---
 

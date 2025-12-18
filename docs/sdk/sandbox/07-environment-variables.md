@@ -15,7 +15,7 @@ title: "环境变量"
 export AGENTBOX_API_KEY=your_api_key
 ```
 
-环境变量是控制 Agent 运行逻辑的重要手段。UAgentBox 提供了一系列内置变量，同时也允许用户在不同阶段注入自定义变量。
+环境变量是控制 Agent 运行逻辑的重要手段。UCloud Sandbox 提供了一系列内置变量，同时也允许用户在不同阶段注入自定义变量。
 
 ## 内置系统变量
 

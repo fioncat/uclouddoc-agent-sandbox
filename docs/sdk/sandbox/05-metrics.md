@@ -15,7 +15,7 @@ title: "指标监控"
 export AGENTBOX_API_KEY=your_api_key
 ```
 
-UAgentBox 会实时采集沙箱的资源消耗数据。通过监控指标，您可以更好地优化 Agent 的任务分配或排查性能瓶颈。
+UCloud Sandbox 会实时采集沙箱的资源消耗数据。通过监控指标，您可以更好地优化 Agent 的任务分配或排查性能瓶颈。
 
 ## 指标概览
 

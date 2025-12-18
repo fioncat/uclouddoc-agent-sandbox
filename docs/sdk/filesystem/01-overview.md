@@ -15,7 +15,7 @@ title: "文件系统概述"
 export AGENTBOX_API_KEY=your_api_key
 ```
 
-每个 UAgentBox 沙箱都拥有独立的、隔离的文件系统，专为 Agent 的临时计算任务设计。通过文件系统 API，您可以高效地管理输入数据、输出结果以及任务中间文件。
+每个 UCloud Sandbox 沙箱都拥有独立的、隔离的文件系统，专为 Agent 的临时计算任务设计。通过文件系统 API，您可以高效地管理输入数据、输出结果以及任务中间文件。
 
 ## 核心功能
 
@@ -35,9 +35,9 @@ from ucloud_sandbox import Sandbox
 sandbox = Sandbox.create()
 
 # 快速写入并验证
-sandbox.files.write("hello.txt", "UAgentBox is awesome!")
+sandbox.files.write("hello.txt", "UCloud Sandbox is awesome!")
 content = sandbox.files.read("hello.txt")
-print(content) # 输出: UAgentBox is awesome!
+print(content) # 输出: UCloud Sandbox is awesome!
 ```
 
 ---

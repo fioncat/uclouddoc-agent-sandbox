@@ -1,5 +1,5 @@
 * [概览](README.md)
-* [UAgentBox CLI](docs/cli/uagentbox-cli.md)
+* [UCloud Sandbox CLI](docs/cli/UCloud Sandbox-cli.md)
 * SDK 指南
     * 沙箱管理
         * [生命周期](docs/sdk/sandbox/01-lifecycle.md)

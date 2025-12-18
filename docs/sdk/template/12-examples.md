@@ -68,7 +68,7 @@ template = (
 
 ## 图形化桌面环境 (GUI & VNC)
 
-UAgentBox 支持运行 X11 桌面环境，并通过 NoVNC 提供浏览器端的实时交互界面。
+UCloud Sandbox 支持运行 X11 桌面环境，并通过 NoVNC 提供浏览器端的实时交互界面。
 
 ```python
 # template.py

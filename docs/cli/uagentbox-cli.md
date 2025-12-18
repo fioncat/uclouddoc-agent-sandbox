@@ -93,7 +93,7 @@ ucloud-sandbox-cli template init --name my-custom-env --language python-sync
 ```
 
 ### 构建与发布
-在模板目录下执行构建，将其推送至 UAgentBox 平台。
+在模板目录下执行构建，将其推送至 UCloud Sandbox 平台。
 
 ```bash
 # 基于当前目录的 Dockerfile 构建
