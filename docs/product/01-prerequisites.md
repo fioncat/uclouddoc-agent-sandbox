@@ -73,6 +73,6 @@ ucloud-sandbox-cli auth login
 
 ## 下一步
 
-- [SDK 快速开始](../sdk/00-quick-start.md) - 创建第一个沙箱
-- [CLI 指南](../cli/cli.md) - 命令行工具使用
-- [E2B 兼容模式](../sdk/e2b-compatibility.md) - 迁移现有 E2B 代码
+- [SDK 快速开始](/agent-sandbox/docs/sdk/00-quick-start.md) - 创建第一个沙箱
+- [CLI 指南](/agent-sandbox/docs/cli/cli.md) - 命令行工具使用
+- [E2B 兼容模式](/agent-sandbox/docs/sdk/e2b-compatibility.md) - 迁移现有 E2B 代码

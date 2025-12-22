@@ -30,7 +30,7 @@ result = sandbox.commands.run("echo 'Hello'")
 sandbox.kill()
 ```
 
-?> 详见：[沙箱生命周期](../sdk/sandbox/01-lifecycle.md)
+?> 详见：[沙箱生命周期](/agent-sandbox/docs/sdk/sandbox/01-lifecycle.md)
 
 ---
 
@@ -56,7 +56,7 @@ template = (
 )
 ```
 
-?> 详见：[模板快速开始](../sdk/template/01-quick-start.md)
+?> 详见：[模板快速开始](/agent-sandbox/docs/sdk/template/01-quick-start.md)
 
 ---
 
@@ -79,7 +79,7 @@ template = (
 └─────────────────────────────────────────────────────────────┘
 ```
 
-?> 详见：[模板工作原理](../sdk/template/02-how-it-works.md)
+?> 详见：[模板工作原理](/agent-sandbox/docs/sdk/template/02-how-it-works.md)
 
 ---
 
@@ -103,7 +103,7 @@ template = (
 )
 ```
 
-?> 详见：[启动与就绪命令](../sdk/template/08-start-and-ready-commands.md)
+?> 详见：[启动与就绪命令](/agent-sandbox/docs/sdk/template/08-start-and-ready-commands.md)
 
 ---
 
@@ -135,6 +135,6 @@ template = (
 
 ## 下一步
 
-- [产品架构](03-architecture.md) - 了解系统组件与数据流
-- [SDK 快速开始](../sdk/00-quick-start.md) - 动手实践
-- [词汇表](_glossary.md) - 术语速查
+- [产品架构](/agent-sandbox/docs/product/03-architecture.md) - 了解系统组件与数据流
+- [SDK 快速开始](/agent-sandbox/docs/sdk/00-quick-start.md) - 动手实践
+- [词汇表](/agent-sandbox/_glossary.md) - 术语速查

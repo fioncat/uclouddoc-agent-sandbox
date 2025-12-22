@@ -2,9 +2,9 @@
 
 <subtitle>执行模板构建并监控构建进度与状态。</subtitle>
 
-?> **前置条件**：请先完成 [API Key 配置](../../product/01-prerequisites.md)
+?> **前置条件**：请先完成 [API Key 配置](/agent-sandbox/docs/product/01-prerequisites.md)
 
-?> 在调用 `Template.build(...)` 之前，请先定义 `template` 变量，见：[定义模板](07-defining-template.md)
+?> 在调用 `Template.build(...)` 之前，请先定义 `template` 变量，见：[定义模板](/agent-sandbox/docs/sdk/template/07-defining-template.md)
 
 ## 构建并等待完成
 

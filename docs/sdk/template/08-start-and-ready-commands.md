@@ -2,7 +2,7 @@
 
 <subtitle>定义模板构建时启动的后台服务及就绪检查逻辑。</subtitle>
 
-?> **前置条件**：请先完成 [API Key 配置](../../product/01-prerequisites.md)
+?> **前置条件**：请先完成 [API Key 配置](/agent-sandbox/docs/product/01-prerequisites.md)
 
 ## 启动命令
 
@@ -15,11 +15,11 @@
 
 当您基于该模板创建沙箱时，这些服务会处于已启动且就绪的状态，用户连接后即可使用，无需等待服务初始化。
 
-?> 工作原理请参阅：[模板工作原理](02-how-it-works.md)
+?> 工作原理请参阅：[模板工作原理](/agent-sandbox/docs/sdk/template/02-how-it-works.md)
 
 ## 就绪命令
 
-就绪命令（Ready Command）用于在创建[快照](02-how-it-works.md)之前，判断**模板沙箱**是否已达到可用状态。
+就绪命令（Ready Command）用于在创建[快照](/agent-sandbox/docs/sdk/template/02-how-it-works.md)之前，判断**模板沙箱**是否已达到可用状态。
 
 系统会循环执行该命令，直到其返回退出码 **0**。借此您可以精确控制：在快照生成前，需要等待[启动命令](#启动命令)完成到什么程度（或等待哪些系统条件满足）。
 

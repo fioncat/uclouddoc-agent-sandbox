@@ -38,7 +38,7 @@ echo $E2B_DOMAIN
 - 在 CI/容器/子进程中变量未正确传递
 - API Key 已过期或被禁用
 
-?> 详见：[前置条件与认证](../product/01-prerequisites.md)
+?> 详见：[前置条件与认证](/agent-sandbox/docs/product/01-prerequisites.md)
 
 ---
 
@@ -78,7 +78,7 @@ Template.build(
 
 确保启动命令本身不会立即退出或报错。
 
-?> 详见：[启动与就绪命令](../sdk/template/08-start-and-ready-commands.md)
+?> 详见：[启动与就绪命令](/agent-sandbox/docs/sdk/template/08-start-and-ready-commands.md)
 
 ---
 
@@ -114,7 +114,7 @@ for stdout, stderr, _ in process:
 
 在沙箱内手动测试命令，确认不是命令本身的问题。
 
-?> 详见：[命令执行概述](../sdk/commands/01-overview.md)、[后台运行命令](../sdk/commands/03-run-commands-in-background.md)
+?> 详见：[命令执行概述](/agent-sandbox/docs/sdk/commands/01-overview.md)、[后台运行命令](/agent-sandbox/docs/sdk/commands/03-run-commands-in-background.md)
 
 ---
 
@@ -155,7 +155,7 @@ sandbox = Sandbox.create(
 
 如果在模板构建阶段需要下载依赖，确保构建环境有网络访问权限。
 
-?> 详见：[网络/互联网访问](../sdk/sandbox/10-internet-access.md)
+?> 详见：[网络/互联网访问](/agent-sandbox/docs/sdk/sandbox/10-internet-access.md)
 
 ---
 
@@ -189,7 +189,7 @@ def create_with_retry(max_retries=3):
     raise Exception("Max retries exceeded")
 ```
 
-?> 详见：[频率限制](../sdk/sandbox/12-rate-limit.md)
+?> 详见：[频率限制](/agent-sandbox/docs/sdk/sandbox/12-rate-limit.md)
 
 ---
 
@@ -205,7 +205,7 @@ def create_with_retry(max_retries=3):
 2. **检查存储桶连接参数和权限**
 3. **确认使用了支持持久化的沙箱配置**
 
-?> 详见：[数据持久化](../sdk/sandbox/04-persistence.md)、[连接存储桶](../sdk/sandbox/11-connect-bucket.md)
+?> 详见：[数据持久化](/agent-sandbox/docs/sdk/sandbox/04-persistence.md)、[连接存储桶](/agent-sandbox/docs/sdk/sandbox/11-connect-bucket.md)
 
 ---
 

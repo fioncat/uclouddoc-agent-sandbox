@@ -2,11 +2,11 @@
 
 <subtitle>实时获取模板构建日志并自定义日志处理逻辑。</subtitle>
 
-?> **前置条件**：请先完成 [API Key 配置](../../product/01-prerequisites.md)
+?> **前置条件**：请先完成 [API Key 配置](/agent-sandbox/docs/product/01-prerequisites.md)
 
 构建过程中会通过 `on_build_logs` 回调实时推送构建日志。您可以使用默认的日志处理器，也可以自定义处理逻辑。
 
-?> 构建入口与状态轮询请参阅：[构建模板](09-build.md)
+?> 构建入口与状态轮询请参阅：[构建模板](/agent-sandbox/docs/sdk/template/09-build.md)
 
 ## 默认日志处理器
 

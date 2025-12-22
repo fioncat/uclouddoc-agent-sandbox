@@ -127,12 +127,12 @@ UCloud Sandbox 提供以下观测能力：
 | **沙箱列表** | `Sandbox.list()` |
 | **沙箱信息** | `sandbox.get_info()` |
 
-?> 详见：[指标监控](../sdk/sandbox/05-metrics.md)、[构建日志](../sdk/template/10-logging.md)
+?> 详见：[指标监控](/agent-sandbox/docs/sdk/sandbox/05-metrics.md)、[构建日志](/agent-sandbox/docs/sdk/template/10-logging.md)
 
 ---
 
 ## 下一步
 
-- [SDK 快速开始](../sdk/00-quick-start.md) - 动手实践
-- [模板工作原理](../sdk/template/02-how-it-works.md) - 深入快照机制
-- [常见问题与排障](../troubleshooting/00-overview.md) - 问题诊断
+- [SDK 快速开始](/agent-sandbox/docs/sdk/00-quick-start.md) - 动手实践
+- [模板工作原理](/agent-sandbox/docs/sdk/template/02-how-it-works.md) - 深入快照机制
+- [常见问题与排障](/agent-sandbox/docs/troubleshooting/00-overview.md) - 问题诊断

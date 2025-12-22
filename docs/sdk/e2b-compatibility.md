@@ -169,5 +169,5 @@ python your_e2b_script.py
 ## 下一步
 
 - [SDK 快速开始](00-quick-start.md) - 使用原生 UCloud Sandbox SDK
-- [沙箱生命周期](sandbox/01-lifecycle.md) - 了解沙箱管理
-- [命令执行](commands/01-overview.md) - 详细的命令执行指南
+- [沙箱生命周期](/agent-sandbox/docs/sdk/sandbox/01-lifecycle.md) - 了解沙箱管理
+- [命令执行](/agent-sandbox/docs/sdk/commands/01-overview.md) - 详细的命令执行指南

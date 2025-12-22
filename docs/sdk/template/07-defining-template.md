@@ -2,7 +2,7 @@
 
 <subtitle>掌握模板定义的完整 API，包括文件操作、包安装及命令执行。</subtitle>
 
-?> **前置条件**：请先完成 [API Key 配置](../../product/01-prerequisites.md)
+?> **前置条件**：请先完成 [API Key 配置](/agent-sandbox/docs/product/01-prerequisites.md)
 
 ### 方法链
 

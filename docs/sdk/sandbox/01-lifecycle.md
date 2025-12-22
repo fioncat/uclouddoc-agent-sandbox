@@ -1,7 +1,7 @@
 # 沙箱生命周期
 <subtitle>管理沙箱从创建到关闭的全过程，包括超时设置与运行监控。</subtitle>
 
-?> **前置条件**：请先完成 [API Key 配置](../../product/01-prerequisites.md)
+?> **前置条件**：请先完成 [API Key 配置](/agent-sandbox/docs/product/01-prerequisites.md)
 
 ## 创建与超时设置
 
