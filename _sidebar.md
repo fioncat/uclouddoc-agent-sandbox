@@ -1,7 +1,6 @@
 
 
 * [概览](/agent-sandbox/README.md)
-* [UCloud Sandbox CLI](/agent-sandbox/docs/cli/cli.md)
 * SDK 指南
     * 沙箱管理
         * [生命周期](/agent-sandbox/docs/sdk/sandbox/01-lifecycle.md)
@@ -38,5 +37,6 @@
         * [目录监听](/agent-sandbox/docs/sdk/filesystem/04-watch-directory-for-changes.md)
         * [上传数据](/agent-sandbox/docs/sdk/filesystem/05-upload-data.md)
         * [下载数据](/agent-sandbox/docs/sdk/filesystem/06-download-data.md)
+* [UCloud Sandbox CLI](/agent-sandbox/docs/cli/cli.md)
 * [词汇表](/agent-sandbox/_glossary.md)
 
