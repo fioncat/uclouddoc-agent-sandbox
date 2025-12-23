@@ -17,7 +17,15 @@ export AGENTBOX_API_KEY=your_api_key
 
 ---
 
-## 2. 安装 CLI
+## 2. 安装 Python SDK
+
+```bash
+pip install ucloud-sandbox
+```
+
+---
+
+## 3. 安装 CLI（可选）
 
 确保您的系统中已安装 Node.js 环境。
 
@@ -36,7 +44,7 @@ ucloud-sandbox-cli --help
 
 ---
 
-## 3. 创建第一个沙箱
+## 4. 创建第一个沙箱
 
 使用 Python SDK 快速创建沙箱：
 
@@ -61,7 +69,7 @@ sandbox.kill()
 
 ---
 
-## 4. 执行命令
+## 5. 执行命令
 
 `commands.run()` 是与沙箱交互最直接的方式。您可以像操作本地终端一样执行任意合法命令：
 
@@ -87,7 +95,7 @@ sandbox.kill()
 
 ---
 
-## 5. 文件操作
+## 6. 文件操作
 
 每个沙箱都拥有独立的文件系统，您可以轻松进行读写操作：
 
@@ -118,7 +126,7 @@ sandbox.kill()
 
 ---
 
-## 6. 构建自定义模板
+## 7. 构建自定义模板
 
 模板（Template）是沙箱的蓝图，允许您预装软件、配置环境变量、预置文件。
 
@@ -182,7 +190,7 @@ print(f"Version: {result.stdout}")  # 输出: Version: 1.0.0
 
 ---
 
-## 7. 完整示例
+## 8. 完整示例
 
 以下是一个完整的工作流程示例：
 
