@@ -65,7 +65,6 @@ ucloud-sandbox-cli sandbox create desktop
 ucloud-sandbox-cli sandbox create base
 ```
 
-> [!TIP]
 > 创建成功后,CLI 会自动连接终端,您可以像操作本地 Shell 一样执行命令。按 `Ctrl+D` 或输入 `exit` 退出连接(沙箱继续运行)。
 
 ### 连接现有沙箱

@@ -11,7 +11,6 @@
 export AGENTBOX_API_KEY=your_api_key
 ```
 
-> [!NOTE]
 > 沙箱持久化目前处于公测阶段。
 
 沙箱持久化允许您暂停（Pause）正在运行的沙箱，并在需要时恢复（Resume）到完全相同的状态。

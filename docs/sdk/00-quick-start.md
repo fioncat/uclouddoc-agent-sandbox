@@ -39,7 +39,6 @@ npm i -g @ucloud-sdks/ucloud-sandbox-cli
 ucloud-sandbox-cli --help
 ```
 
-> [!TIP]
 > 更多 CLI 功能请参阅 [CLI 完整指南](/agent-sandbox/docs/cli/cli.md)。
 
 ---
@@ -64,7 +63,6 @@ sandbox.kill()
 
 !> 注意：超时的沙箱将由系统自动回收并清理。建议在业务流程结束时手动调用 `kill()` 方法释放资源。
 
-> [!NOTE]
 > 更多沙箱生命周期管理请参阅 [沙箱生命周期](/agent-sandbox/docs/sdk/sandbox/01-lifecycle.md)。
 
 ---
@@ -112,7 +110,6 @@ ucloud-sandbox-cli sandbox create desktop
 ucloud-sandbox-cli sandbox create base
 ```
 
-> [!TIP]
 > CLI 的 `sandbox create` 命令会自动打开交互式终端并连接到沙箱,非常适合调试和开发。
 
 ---
@@ -138,7 +135,6 @@ else:
 sandbox.kill()
 ```
 
-> [!TIP]
 > 对于长时间运行的命令，请参考 [后台运行命令](/agent-sandbox/docs/sdk/commands/03-run-commands-in-background.md)。
 
 ---
@@ -169,7 +165,6 @@ sandbox.kill()
 
 ?> **默认根目录**：绝大部分操作默认在 `/home/user` 下进行。
 
-> [!NOTE]
 > 更多文件操作请参阅 [文件系统概述](/agent-sandbox/docs/sdk/filesystem/01-overview.md)。
 
 ---
@@ -233,7 +228,6 @@ result = sbx.commands.run("echo $APP_VERSION")
 print(f"Version: {result.stdout}")  # 输出: Version: 1.0.0
 ```
 
-> [!TIP]
 > 模板别名是您全局唯一的标识符。更多模板功能请参阅 [模板完整指南](/agent-sandbox/docs/sdk/template/01-quick-start.md)。
 
 ---
