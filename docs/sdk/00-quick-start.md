@@ -178,9 +178,6 @@ sandbox.kill()
 ```bash
 # 初始化模板项目
 ucloud-sandbox-cli template init
-
-# 构建模板
-ucloud-sandbox-cli template build --name my-agent-env
 ```
 
 ### 方式二：使用 Python SDK

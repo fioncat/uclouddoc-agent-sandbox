@@ -124,9 +124,6 @@ ucloud-sandbox-cli template init --name my-custom-env --language python-sync
 在模板目录下执行构建，将其推送至 UCloud Sandbox 平台。
 
 ```bash
-# 基于当前目录的 Dockerfile 构建
-ucloud-sandbox-cli template build --name my-agent-env
-
 # 发布模板版本
 ucloud-sandbox-cli template publish <template-id>
 ```
@@ -137,6 +134,5 @@ ucloud-sandbox-cli template publish <template-id>
 
 1.  **准备环境**：`ucloud-sandbox-cli auth login`
 2.  **创建模板**：`ucloud-sandbox-cli template init` -> 编写 `Dockerfile`
-3.  **构建模板**：`ucloud-sandbox-cli template build`
 4.  **业务接入**：在 SDK 中使用 `Sandbox.create(template='my-agent-env')`
 5.  **资源回收**：`ucloud-sandbox-cli sandbox kill --all`
