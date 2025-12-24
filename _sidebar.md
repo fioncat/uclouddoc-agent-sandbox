@@ -8,7 +8,6 @@
     * [E2B 兼容模式](/agent-sandbox/docs/sdk/e2b-compatibility.md)
 * 核心概念
     * [概念速览](/agent-sandbox/docs/product/02-concepts.md)
-    * [产品架构](/agent-sandbox/docs/product/03-architecture.md)
     * [模板工作原理](/agent-sandbox/docs/sdk/template/02-how-it-works.md)
 * SDK 指南
     * [Code Interpreter](/agent-sandbox/docs/sdk/sandbox/13-code-interpreter.md)
