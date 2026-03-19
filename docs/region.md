@@ -4,8 +4,8 @@
 
 | 地域    | 中文描述         | 域名                         |
 | ------- | ---------------- | ---------------------------- |
-| cn-wlcb | 华北（乌兰察布） | sandbox.cn-wlcb.ucloudai.com |
-| us-ca   | 美国（洛杉矶）   | sandbox.us-ca.ucloudai.com   |
+| cn-wlcb | 华北（乌兰察布） | cn-wlcb.sandbox.ucloudai.com |
+| us-ca   | 美国（洛杉矶）   | us-ca.sandbox.ucloudai.com   |
 
 在默认情况下，我们将使用 `cn-wlcb` 地域。下面介绍如何切换到别的地域。
 
